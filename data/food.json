@@ -1,0 +1,146 @@
+[
+    {
+      "id": 11,
+      "chef_id": 11,
+      "image": "https://i.ibb.co/NmczJ0K/food1.jpg",
+      "name": "Egg Noodles Recipe",
+      "details": "Cover the pan with a lid and allow it to cook for around 2-3 minutes. Once done, transfer the dish to a serving bowl and garnish it with coriander leaves.Rate it and let us know how it turned out to be.",
+      "like": 11020
+    },
+    {
+      "id": 65400011,
+      "chef_id": 11,
+      "image": "https://i.ibb.co/ZM9q31f/food18.jpg",
+      "name": "Tiramisu",
+      "details": "This Italian dessert is made from ladyfinger sponge cookies soaked in espresso and rum and layered with a whipped mixture of eggs, sugar, mascarpone cheese, and topped with cocoa.",
+      "like": 16120
+    },
+    {
+      "id": 124011,
+      "chef_id": 11,
+      "image": "https://i.ibb.co/qRP8ywp/food19.jpg",
+      "name": "Spaghetti Alla Carbonara",
+      "details": " This dish from Rome is simply cooked spaghetti tossed into a hot pan (pork cheek) or pancetta. A mix of egg, parmesan, and black pepper is poured into the hot pasta.",
+      "like": 13125
+    },
+    {
+      "id": 22,
+      "chef_id": 22,
+      "image": "https://i.ibb.co/WBvXdCx/food3.jpg",
+      "name": "Ribollita",
+      "details": "This Tuscan stew was created when servants would clear the plates of their masters and cook the leftovers in boiling water. Ribollita, hearty vegetables and thickened with stale bread.",
+      "like": 12450
+    },
+    {
+      "id": 62022,
+      "chef_id": 22,
+      "image": "https://i.ibb.co/jzhw3XJ/food16.jpg",
+      "name": "Lasagna",
+      "details": "In this classic dish from Naples, lasagne noodles are layered with tomato or meat sauce, and ricotta cheese, topped with mozzarella cheese and baked.",
+      "like": 13050
+    },
+    {
+      "id": 662022,
+      "chef_id": 22,
+      "image": "https://i.ibb.co/tYT3HZZ/food17.jpg",
+      "name": "Swordfish",
+      "details": "Sicily is known for its seafood, including Sicilian swordfish. This filet is simply cooked in olive oil with capers, sundried tomatoes, and wine.",
+      "like": 12120
+    },
+    {
+      "id": 33,
+      "chef_id": 33,
+      "image": "https://i.ibb.co/wNmgT8L/food6.jpg",
+      "name": " Caprese salad",
+      "details": "This popular summer salad is simply tomato slices topped with mozzarella cheese and basil leaves, with a drizzle of olive oil and balsamic vinegar.",
+      "like": 10300
+    },
+    {
+      "id": 45600033,
+      "chef_id": 33,
+      "image": "https://i.ibb.co/kKS5QjR/food14.jpg",
+      "name": "Capers",
+      "details": "“Capperi” are pickled flower buds from the Flinders rose bush. These small, salty green orbs are a popular ingredient in Mediterranean dishes like chicken piccata and puttanesca sauce.",
+      "like": 16300
+    },
+    {
+      "id": 5640033,
+      "chef_id": 33,
+      "image": "https://i.ibb.co/gV0V9rH/food15.jpg",
+      "name": "Basil",
+      "details": "Basil is a fragrant green herb with a smokey, minty taste, and the most popular herb in Italian cooking. Basil is often used in tomato sauce, in Caprese saladpesto sauce.",
+      "like": 13400
+    },
+    {
+      "id": 44,
+      "chef_id": 44,
+      "image": "https://i.ibb.co/RzSn4g0/food7.jpg",
+      "name": "Pasta sauce",
+      "details": "Think marinara (tomatoes, garlic, onion, olive oil, and basil; this is Italy’s most famous sauce); Pomodoro (Italian for “tomato,” but is a thicker, smoother sauce); bolognese (meat like pancetta, beef.",
+      "like": 11410
+    },
+    {
+      "id": 110055,
+      "chef_id": 44,
+      "image": "https://i.ibb.co/HTvTgbM/food13.jpg",
+      "name": "Garlic",
+      "details": "Garlic is one of the most popular ingredients throughout the country, especially sautéed in olive oil to create a flavorful cooking base.",
+      "like": 12640
+    },
+    {
+      "id": 13150,
+      "chef_id": 44,
+      "image": "https://i.ibb.co/wrkHBXy/food11.jpg",
+      "name": "Tiramisu",
+      "details": "This Italian dessert is made from ladyfinger sponge cookies soaked in espresso and rum and layered with a whipped mixture of eggs, sugar, mascarpone cheese, and topped with cocoa.",
+      "like": 12240
+    },
+    {
+      "id": 1255,
+      "chef_id": 55,
+      "image": "https://i.ibb.co/PMKk3MQ/food8.jpg",
+      "name": "Neapolitan pizza",
+      "details": "This classic peasant dish from Naples started as flatbread and tomatoes. Originally called pizza Margherita, Neapolitan pizza is dough covered in San Marzano tomatoes, olive oil, basil.",
+      "like": 13010
+    },
+    {
+      "id": 410055,
+      "chef_id": 55,
+      "image": "https://i.ibb.co/yVxQRxh/food12.jpg",
+      "name": "Oregano",
+      "details": " Dried oregano leaves add an earthy flavor to marinara sauce, pizza, salad dressing, or grilled meats.",
+      "like": 14040
+    },
+    {
+      "id": 230055,
+      "chef_id": 55,
+      "image": "https://i.ibb.co/HTvTgbM/food13.jpg",
+      "name": "Garlic",
+      "details": "Garlic is one of the most popular ingredients throughout the country, especially sautéed in olive oil to create a flavorful cooking base.",
+      "like": 12640
+    },
+    {
+      "id": 66,
+      "chef_id": 66,
+      "image": "https://i.ibb.co/Q89nPbT/food9.jpg",
+      "name": "Ribollita",
+      "details": "This Tuscan stew was created when servants would clear the plates of their masters and cook the leftovers in boiling water. Ribollita, which means re-boiled,vegetables and thickened with stale bread.",
+      "like": 11140
+    },
+    {
+      "id": 2500077,
+      "chef_id": 66,
+      "image": "https://i.ibb.co/VHdnCXm/food10.jpg",
+      "name": "Arancini",
+      "details": "These Sicilian rice balls are made by rolling cooked risotto mixed with butter and parmesan. The balls are dipped in flour, egg, and breadcrumbs,they are golden.",
+      "like": 16040
+    },
+    {
+      "id": 12150,
+      "chef_id": 66,
+      "image": "https://i.ibb.co/wrkHBXy/food11.jpg",
+      "name": "Tiramisu",
+      "details": "This Italian dessert is made from ladyfinger sponge cookies soaked in espresso and rum and layered with a whipped mixture of eggs, sugar, mascarpone cheese, and topped with cocoa.",
+      "like": 12240
+    }
+  ]

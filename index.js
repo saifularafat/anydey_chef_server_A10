@@ -5,7 +5,9 @@ const port = 5000;
 
 app.use(cors())
 
-const master_chef = require ('./data/chef.json')
+const master_chef = require ('./data/chef.json');
+
+const chef_food = require ('./data/food.json');
 
 app.get('/', (req, res) => {
     res.send('Hi Chef Server')
