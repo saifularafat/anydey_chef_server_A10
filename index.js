@@ -18,13 +18,6 @@ app.get('/chef', (req, res) => {
     res.send(master_chef)
 })
 
-// chef dynamic id
-// app.get('/chef/:id', (req, res) => {
-//     const id = req.params.id;
-//     const selectChef = master_chef.find(chef => chef._id == id);
-//     res.send(selectChef);
-// })
-
 // food local server api create
 app.get('/food', (req, res) => {
     res.send(chef_food)
