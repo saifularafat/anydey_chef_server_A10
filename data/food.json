@@ -2,162 +2,359 @@
     {
       "id": 154011,
       "chef_id": 11,
+      "coverImg": "https://i.ibb.co/k3wvs9K/chef1.png",
       "image": "https://i.ibb.co/NmczJ0K/food1.jpg",
       "name": "Egg Noodles Recipe",
       "details": "Cover the pan with a lid and allow it to cook for around 2-3 minutes. Once done, transfer the dish to a serving bowl and garnish it with coriander leaves.Rate it and let us know how it turned out to be.",
+      "recipeName": [
+        "pancetta or bacon",
+        "grated Pecorino Romano cheese",
+        "spaghetti",
+        "Risotto Alla Milanese",
+        "Neapolitan pizza",
+        "Italian cheese",
+        "Porcini mushrooms",
+        "Egg Noodles Recipe"
+      ],
       "like": 11020,
       "rating": 4.6
     },
     {
       "id": 654011,
       "chef_id": 11,
+      "coverImg": "https://i.ibb.co/k3wvs9K/chef1.png",
       "image": "https://i.ibb.co/ZM9q31f/food18.jpg",
       "name": "Tiramisu",
       "details": "This Italian dessert is made from ladyfinger sponge cookies soaked in espresso and rum and layered with a whipped mixture of eggs, sugar, mascarpone cheese, and topped with cocoa.",
+      "recipeName": [
+        "pancetta or bacon",
+        "grated Pecorino Romano cheese",
+        "spaghetti",
+        "Risotto Alla Milanese",
+        "Neapolitan pizza",
+        "Italian cheese",
+        "Porcini mushrooms",
+        "Egg Noodles Recipe"
+      ],
       "like": 16120,
       "rating": 4.8
     },
     {
       "id": 124011,
       "chef_id": 11,
+      "coverImg": "https://i.ibb.co/k3wvs9K/chef1.png",
       "image": "https://i.ibb.co/qRP8ywp/food19.jpg",
       "name": "Spaghetti Alla Carbonara",
       "details": " This dish from Rome is simply cooked spaghetti tossed into a hot pan (pork cheek) or pancetta. A mix of egg, parmesan, and black pepper is poured into the hot pasta.",
+      "recipeName": [
+        "pancetta or bacon",
+        "grated Pecorino Romano cheese",
+        "spaghetti",
+        "Risotto Alla Milanese",
+        "Neapolitan pizza",
+        "Italian cheese",
+        "Porcini mushrooms",
+        "Egg Noodles Recipe"
+      ],
       "like": 13125,
       "rating": 4.9
     },
     {
       "id": 845222,
       "chef_id": 22,
+      "coverImg": "https://i.ibb.co/GJcRBnp/chef3.png",
       "image": "https://i.ibb.co/WBvXdCx/food3.jpg",
       "name": "Ribollita",
       "details": "This Tuscan stew was created when servants would clear the plates of their masters and cook the leftovers in boiling water. Ribollita, hearty vegetables and thickened with stale bread.",
+      "recipeName": [
+        "Arancini",
+        "grated Pecorino",
+        "Tiramisu",
+        "Risotto Alla Milanese",
+        "Neapolitan pizza",
+        "Italian cheese",
+        "Porcini mushrooms",
+        "Ribollita"
+      ],
       "like": 12450,
       "rating": 4.4
     },
     {
       "id": 102022,
       "chef_id": 22,
+      "coverImg": "https://i.ibb.co/GJcRBnp/chef3.png",
       "image": "https://i.ibb.co/jzhw3XJ/food16.jpg",
       "name": "Lasagna",
       "details": "In this classic dish from Naples, lasagne noodles are layered with tomato or meat sauce, and ricotta cheese, topped with mozzarella cheese and baked.",
+      "recipeName": [
+        "Arancini",
+        "grated Pecorino",
+        "Tiramisu",
+        "Risotto Alla Milanese",
+        "Neapolitan pizza",
+        "Italian cheese",
+        "Porcini mushrooms",
+        "Ribollita"
+      ],
       "like": 13050,
       "rating": 4.3
     },
     {
       "id": 662022,
       "chef_id": 22,
+      "coverImg": "https://i.ibb.co/GJcRBnp/chef3.png",
       "image": "https://i.ibb.co/tYT3HZZ/food17.jpg",
       "name": "Swordfish",
       "details": "Sicily is known for its seafood, including Sicilian swordfish. This filet is simply cooked in olive oil with capers, sundried tomatoes, and wine.",
+      "recipeName": [
+        "Arancini",
+        "grated Pecorino",
+        "Tiramisu",
+        "Risotto Alla Milanese",
+        "Neapolitan pizza",
+        "Italian cheese",
+        "Porcini mushrooms",
+        "Ribollita"
+      ],
       "like": 12120,
       "rating": 5.0
     },
     {
       "id": 612433,
       "chef_id": 33,
+      "coverImg": "https://i.ibb.co/yRBdBwt/chef2.jpg",
       "image": "https://i.ibb.co/wNmgT8L/food6.jpg",
       "name": " Caprese salad",
       "details": "This popular summer salad is simply tomato slices topped with mozzarella cheese and basil leaves, with a drizzle of olive oil and balsamic vinegar.",
+      "recipeName": [
+        "Tiramisu",
+        "Pasta sauce",
+        "Arancini",
+        "Garlic",
+        "Porcini mushrooms",
+        "Neapolitan pizza",
+        "Ribollita",
+        "Italian cheese"
+      ],
       "like": 10300,
       "rating": 4.7
     },
     {
       "id": 456033,
       "chef_id": 33,
+      "coverImg": "https://i.ibb.co/yRBdBwt/chef2.jpg",
       "image": "https://i.ibb.co/kKS5QjR/food14.jpg",
       "name": "Capers",
       "details": "“Capperi” are pickled flower buds from the Flinders rose bush. These small, salty green orbs are a popular ingredient in Mediterranean dishes like chicken piccata and puttanesca sauce.",
+      "recipeName": [
+        "Tiramisu",
+        "Pasta sauce",
+        "Arancini",
+        "Garlic",
+        "Porcini mushrooms",
+        "Neapolitan pizza",
+        "Ribollita",
+        "Italian cheese"
+      ],
       "like": 16300,
       "rating": 4.5
     },
     {
       "id": 564033,
       "chef_id": 33,
+      "coverImg": "https://i.ibb.co/yRBdBwt/chef2.jpg",
       "image": "https://i.ibb.co/gV0V9rH/food15.jpg",
       "name": "Basil",
       "details": "Basil is a fragrant green herb with a smokey, minty taste, and the most popular herb in Italian cooking. Basil is often used in tomato sauce, in Caprese saladpesto sauce.",
+      "recipeName": [
+        "Tiramisu",
+        "Pasta sauce",
+        "Arancini",
+        "Garlic",
+        "Porcini mushrooms",
+        "Neapolitan pizza",
+        "Ribollita",
+        "Italian cheese"
+      ],
       "like": 13400,
       "rating": 4.8
     },
     {
       "id": 848944,
       "chef_id": 44,
+      "coverImg": "https://i.ibb.co/k0P7yKz/chef4.jpg",
       "image": "https://i.ibb.co/RzSn4g0/food7.jpg",
       "name": "Pasta sauce",
       "details": "Think marinara (tomatoes, garlic, onion, olive oil, and basil; this is Italy’s most famous sauce); Pomodoro (Italian for “tomato,” but is a thicker, smoother sauce); bolognese (meat like pancetta, beef.",
+      "recipeName": [
+        "Italian cheese",
+        "Pasta sauce",
+        "Basil",
+        "Garlic",
+        "Porcini mushrooms",
+        "Capers",
+        "Neapolitan pizza",
+        "Ribollita"
+      ],
       "like": 11410,
       "rating": 4.4
     },
     {
       "id": 110055,
       "chef_id": 44,
-      "image": "https://i.ibb.co/HTvTgbM/food13.jpg",
+      "coverImg": "https://i.ibb.co/HTvTgbM/food13.jpg",
       "name": "Garlic",
       "details": "Garlic is one of the most popular ingredients throughout the country, especially sautéed in olive oil to create a flavorful cooking base.",
+      "recipeName": [
+        "Italian cheese",
+        "Pasta sauce",
+        "Basil",
+        "Garlic",
+        "Porcini mushrooms",
+        "Capers",
+        "Neapolitan pizza",
+        "Ribollita"
+      ],
       "like": 12640,
       "rating": 4.1
     },
     {
       "id": 131250,
       "chef_id": 44,
+      "coverImg": "https://i.ibb.co/HTvTgbM/food13.jpg",
       "image": "https://i.ibb.co/wrkHBXy/food11.jpg",
       "name": "Tiramisu",
       "details": "This Italian dessert is made from ladyfinger sponge cookies soaked in espresso and rum and layered with a whipped mixture of eggs, sugar, mascarpone cheese, and topped with cocoa.",
+      "recipeName": [
+        "Italian cheese",
+        "Pasta sauce",
+        "Basil",
+        "Garlic",
+        "Porcini mushrooms",
+        "Capers",
+        "Neapolitan pizza",
+        "Ribollita"
+      ],
       "like": 12240,
       "rating": 3.9
     },
     {
       "id": 561255,
       "chef_id": 55,
+      "coverImg": "https://i.ibb.co/ZBqp97v/chef5.jpg",
       "image": "https://i.ibb.co/PMKk3MQ/food8.jpg",
       "name": "Neapolitan pizza",
       "details": "This classic peasant dish from Naples started as flatbread and tomatoes. Originally called pizza Margherita, Neapolitan pizza is dough covered in San Marzano tomatoes, olive oil, basil.",
+      "recipeName": [
+        "Neapolitan pizza",
+        "Pasta sauce",
+        "Caprese salad",
+        "Italian cheese",
+        "Garlic",
+        "Basil",
+        "Porcini mushrooms",
+        "Ribollita"
+      ],
       "like": 13010,
       "rating": 3.4
     },
     {
       "id": 410055,
       "chef_id": 55,
+      "coverImg": "https://i.ibb.co/ZBqp97v/chef5.jpg",
       "image": "https://i.ibb.co/yVxQRxh/food12.jpg",
       "name": "Oregano",
       "details": " Dried oregano leaves add an earthy flavor to marinara sauce, pizza, salad dressing, or grilled meats.",
+      "recipeName": [
+        "Neapolitan pizza",
+        "Pasta sauce",
+        "Caprese salad",
+        "Italian cheese",
+        "Garlic",
+        "Basil",
+        "Porcini mushrooms",
+        "Ribollita"
+      ],
       "like": 14040,
       "rating": 4.2
     },
     {
       "id": 230055,
       "chef_id": 55,
+      "coverImg": "https://i.ibb.co/ZBqp97v/chef5.jpg",
       "image": "https://i.ibb.co/HTvTgbM/food13.jpg",
       "name": "Garlic",
       "details": "Garlic is one of the most popular ingredients throughout the country, especially sautéed in olive oil to create a flavorful cooking base.",
+      "recipeName": [
+        "Neapolitan pizza",
+        "Pasta sauce",
+        "Caprese salad",
+        "Italian cheese",
+        "Garlic",
+        "Basil",
+        "Porcini mushrooms",
+        "Ribollita"
+      ],
       "like": 12640,
       "rating": 4.9
     },
     {
       "id": 897566,
       "chef_id": 66,
+      "coverImg": "https://i.ibb.co/Tvdt4q9/chef6.jpg",
       "image": "https://i.ibb.co/Q89nPbT/food9.jpg",
       "name": "Ribollita",
       "details": "This Tuscan stew was created when servants would clear the plates of their masters and cook the leftovers in boiling water. Ribollita, which means re-boiled,vegetables and thickened with stale bread.",
+      "recipeName": [
+        "Swordfish",
+        "Porcini mushrooms",
+        "Spaghetti Alla Carbonara",
+        "Italian cheese",
+        "Pasta sauce",
+        "Lasagna",
+        "Basil",
+        "Egg Noodles Recipe"
+      ],
       "like": 11140,
       "rating": 4.9
     },
     {
       "id": 250077,
       "chef_id": 66,
+      "coverImg": "https://i.ibb.co/Tvdt4q9/chef6.jpg",
       "image": "https://i.ibb.co/VHdnCXm/food10.jpg",
       "name": "Arancini",
       "details": "These Sicilian rice balls are made by rolling cooked risotto mixed with butter and parmesan. The balls are dipped in flour, egg, and breadcrumbs,they are golden.",
+      "recipeName": [
+        "Swordfish",
+        "Porcini mushrooms",
+        "Spaghetti Alla Carbonara",
+        "Italian cheese",
+        "Pasta sauce",
+        "Lasagna",
+        "Basil",
+        "Egg Noodles Recipe"
+      ],
       "like": 16040,
       "rating": 4.3
     },
     {
       "id": 121501,
       "chef_id": 66,
+      "coverImg": "https://i.ibb.co/Tvdt4q9/chef6.jpg",
       "image": "https://i.ibb.co/wrkHBXy/food11.jpg",
       "name": "Tiramisu",
       "details": "This Italian dessert is made from ladyfinger sponge cookies soaked in espresso and rum and layered with a whipped mixture of eggs, sugar, mascarpone cheese, and topped with cocoa.",
+      "recipeName": [
+        "Swordfish",
+        "Porcini mushrooms",
+        "Spaghetti Alla Carbonara",
+        "Italian cheese",
+        "Pasta sauce",
+        "Lasagna",
+        "Basil",
+        "Egg Noodles Recipe"
+      ],
       "like": 12240,
       "rating": 3.4
     }
